@@ -795,7 +795,9 @@ class LunarUtil {
     '7-7': '七夕节',
     '8-15': '中秋节',
     '9-9': '重阳节',
-    '12-8': '腊八节'
+    '12-8': '腊八节',
+    '12-23': '北方小年',
+    '12-24': '南方小年'
   };
 
   static const Map<String, List<String>> OTHER_FESTIVAL = {
